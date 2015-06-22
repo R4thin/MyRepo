@@ -70,10 +70,6 @@
     <gap:plugin name="org.apache.cordova.vibration" />
 
     <!-- Third party plugins -->
-	<gap:plugin name="cordova-plugin-konotor" source="npm" version="1.0.0">
-    <param name="APP_ID" value="f9238745-18c7-4037-8da0-a23dae7f48a6"/>
-    <param name="APP_KEY" value="21edfa80-ec1b-4df2-b373-3a8fb1e2019f"/>
-	</gap:plugin>
     <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
     <!--
         <gap:plugin name="com.phonegap.plugins.barcodescanner" />
