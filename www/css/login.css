@@ -1,9 +1,0 @@
-@charset "utf-8";
-/* CSS Document */
-#LoginForm {width: 350px, margin:100px auto; }
-            button1 [type] { margin: 0.5em 0; }
-#remember_me {min-width:250px, margin:50px auto; }
-             checkbox [type] {margin: 0.5em 0;}
-#button{color:#FF0000; background:#000066; font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif; font-style:italic}
-
-#sigin {color:#09F;}
